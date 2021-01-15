@@ -1,0 +1,3 @@
+.text-area:focused {
+    -fx-background-color: transparent, white, transparent, white;
+}
